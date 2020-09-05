@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/book-react-app/static/css/main.d1dc0c90.chunk.css",
+    "main.js": "/book-react-app/static/js/main.a2d392a7.chunk.js",
+    "main.js.map": "/book-react-app/static/js/main.a2d392a7.chunk.js.map",
+    "runtime-main.js": "/book-react-app/static/js/runtime-main.311a4c81.js",
+    "runtime-main.js.map": "/book-react-app/static/js/runtime-main.311a4c81.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/book-react-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a6c31650.chunk.js": "/book-react-app/static/js/2.a6c31650.chunk.js",
+    "static/js/2.a6c31650.chunk.js.map": "/book-react-app/static/js/2.a6c31650.chunk.js.map",
+    "index.html": "/book-react-app/index.html",
+    "precache-manifest.5bc46e454890851b9814508d7b0d7072.js": "/book-react-app/precache-manifest.5bc46e454890851b9814508d7b0d7072.js",
+    "service-worker.js": "/book-react-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/book-react-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.d1dc0c90.chunk.css.map": "/book-react-app/static/css/main.d1dc0c90.chunk.css.map",
+    "static/js/2.a6c31650.chunk.js.LICENSE.txt": "/book-react-app/static/js/2.a6c31650.chunk.js.LICENSE.txt",
+    "static/media/avenger.jpg": "/book-react-app/static/media/avenger.ecc194d5.jpg",
+    "static/media/batman.jpg": "/book-react-app/static/media/batman.e72d5cac.jpg",
+    "static/media/blackhammer.jpg": "/book-react-app/static/media/blackhammer.1fe344ea.jpg",
+    "static/media/harrypotter.jpg": "/book-react-app/static/media/harrypotter.9e76b652.jpg",
+    "static/media/spiderman.jpg": "/book-react-app/static/media/spiderman.0b9324c6.jpg",
+    "static/media/venom.jpg": "/book-react-app/static/media/venom.5827aaf9.jpg",
+    "static/media/wasp.jpg": "/book-react-app/static/media/wasp.d1feba84.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311a4c81.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.a6c31650.chunk.js",
+    "static/css/main.d1dc0c90.chunk.css",
+    "static/js/main.a2d392a7.chunk.js"
+  ]
+}
